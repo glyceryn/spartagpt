@@ -1,0 +1,2 @@
+# spartagpt
+sparta class
